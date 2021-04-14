@@ -56,7 +56,7 @@ You can find the documentation [here](https://lanl.github.io/pyDNMFk/).
 
 
 ## Usage
-We provide a sample dataset that can be used for estimation of k:
+We provide a sample dataset that can be used for estimation of k using 4 MPI Ranks:
 ```python
 '''Imports block'''
 
